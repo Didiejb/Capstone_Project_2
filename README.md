@@ -169,24 +169,52 @@ The primary source of Data used in this Project is Sales Data file and this can 
    - **Customer Segments:**
      - Bar chart showing the number of customers by subscription type.
    - **Cancellations:**
-     - Map or bar chart showing the number of cancellations by region.
-   - **Subscription Trends:**
-     - Line chart showing the number of active and canceled subscriptions over time.
-   - **Revenue Analysis:**
-     - Pie chart or bar chart showing total revenue by subscription type.
+     - bar chart showing the number of cancellations by region.
 
-3. **Add Slicers:**
+   - **Revenue Analysis:**
+     - Pie chart showing total revenue by subscription type.
+
+    ![Screenshot 2024-11-05 161914](https://github.com/user-attachments/assets/2fcaf20d-7b47-4432-8b70-016ddb93ad68)
+
+
+    ![Screenshot 2024-11-05 161930](https://github.com/user-attachments/assets/1c61f8cc-b7a8-47b8-bc66-4e4867e72bf1)
+
+
+    ![Screenshot 2024-11-05 161956](https://github.com/user-attachments/assets/a90450d2-76f0-40ff-8fd2-d7cb4be945ca)
+
+    
+
+    ![Screenshot 2024-11-05 161944](https://github.com/user-attachments/assets/7bb73274-1942-464d-b2f0-ff0e492fcd93)
+
+
+
+4. **Add Slicers:**
    - Added slicers for `Region`, `SubscriptionType`, and `Canceled` to allow for interactive data exploration.
 
-4. **Design and Layout:**
+5. **Design and Layout:**
    - Arranged the visuals in a logical and visually appealing layout.
    - Used appropriate colors and themes to enhance readability.
-
-5. **Publish Dashboard:**
-   - Published the Power BI dashboard to the Power BI service for sharing and collaboration.
   
 ### Recommendations
 
+**1. Improve Customer Retention:**
+   - **Insight:** A significant number of customers cancel their subscriptions within the first 12 months.
+   - **Recommendation:** Implement a robust onboarding process and provide additional support during the initial subscription period. Offer incentives for longer-term commitments to reduce churn rates.
 
+**2. Enhance Subscription Plans:**
+   - **Insight:** `Basic` subscription type is the most popular.
+   - **Recommendation:** Consider introducing new features or benefits to the plan to add value and encourage upgrades. Regularly review and update subscription offerings based on customer feedback and market trends.
+
+**3. Targeted Marketing by Region:**
+   - **Insight:** Regions like `North` and `East` have a higher number of customers.
+   - **Recommendation:** Focus marketing efforts on these regions to maximize reach and engagement. Develop region-specific campaigns that resonate with local customer preferences.
+
+**4. Address Cancellations:**
+   - **Insight:** High cancellation rates in certain regions and among specific subscription types.
+   - **Recommendation:** Conduct surveys and gather feedback from customers who canceled to understand their reasons. Use this data to make improvements in service quality, pricing, and features.
+
+**5. Monitor and Enhance Customer Experience:**
+   - **Insight:** The average subscription duration provides insights into customer satisfaction.
+   - **Recommendation:** Regularly track and analyze subscription durations to identify trends and areas for improvement. Use customer feedback to enhance the overall user experience and increase retention rates.
 
 
