@@ -1,20 +1,20 @@
 # Capstone Project 2
 
-# Project Title: Customer Segmentation for a Subscription Service
+# Project Title
+Customer Segmentation for a Subscription Service
 
 ## Project Overview
 This Data Analysis Project involves analyzing customer data for a subscription service to identify segments and trends. By exploring the customer data and analysing the various parameters, I seek to understand customer behaviour, track subscription types and identify key trends in cancellations and renewals. This would help make data-driven decisions and enable me tell a unique story with the insights gotten from the data.
 
 ## Table of Content
-* *Project Title*
-* *Project Overview*
-* *Data Sources*
-* *Tools Used*
-* *Data Cleaning and Preparation*
-* *Exploratory Data Analysis*
-* *Data Analysis*
-* *Data Visualization*
-* *Recommendations*
+* [*Project Title*](#project-title)
+* [*Project Overview*](#project-overview)
+* [*Data Sources*](#data-sources)
+* [*Tools Used*](#tools-used)
+* [*Data Cleaning and Preparation*](#data-cleaning-and-preparation)
+* [*Data Analysis*](#data-analysis)
+* [*Data Visualization*](#data-visualization)
+* [*Recommendations*](#recommendations)
   
 ### Data Sources
 The primary source of Data used in this Project is Sales Data file and this can be downloaded here[Sales Data.csv](https://github.com/user-attachments/files/17631070/Sales.Data.csv)
@@ -75,8 +75,9 @@ The primary source of Data used in this Project is Sales Data file and this can 
      ![Screenshot 2024-11-04 145203](https://github.com/user-attachments/assets/ca04af40-7e37-4689-bc0d-d92b82b7f536)
 
 
-### SQL Analysis
-SQL Analysis
+### Data Analysis
+
+##### SQL Analysis
 
 **Queries Executed:**
 
@@ -154,7 +155,10 @@ SQL Analysis
    ```
    ![Screenshot 2024-11-05 101437](https://github.com/user-attachments/assets/5323d284-07d9-4528-9593-2b63513c9399)
 
-   ### Power BI Dashboard
+
+  ### Data Visualization
+  
+  #### Power BI Dashboard
 
 **Steps Taken:**
 
@@ -180,6 +184,8 @@ SQL Analysis
 
 5. **Publish Dashboard:**
    - Published the Power BI dashboard to the Power BI service for sharing and collaboration.
+  
+### Recommendations
 
 
 
